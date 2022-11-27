@@ -1,0 +1,6 @@
+{
+"url-backend": "127.0.0.1",
+"port": 7777,
+"url-backend-proyecto-mintic": "http://127.0.0.1:9999",
+  "url-backend-proyecto-mintic-seguridad": "http://127.0.0.1:8080"
+}
